@@ -1,0 +1,4 @@
+export ESA_ACCESS_TOKEN=""
+export ESA_TEAM=""
+export SEARCH_QUERY_CATEGORY=""
+export SEARCH_QUERY_TITLE=""
